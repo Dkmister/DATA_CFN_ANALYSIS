@@ -1,0 +1,9 @@
+Player,WR_Ranked,Total_Ranked,Win_Ranked,Losses_Ranked, Main
+Maroto_06,70.96,7145,5445,1700, Juri
+HKDASH,66.52,15244,10141,5103, Seth
+Muteus,55.06,23453,12913,10540, Vega
+Keoma,80.88,11250,9099,2151, Ryu
+Brollynho, 73.22, 7583, 5552, 2031, Gill
+Ronaldinho, 69.88, 20033, 13999, 6034, Nash
+PauloWeb, 75.50, 26748, 20194, 6554, Poison
+DidimoKoff, 81.61, 12098, 9873, 2225, Dhalsim
